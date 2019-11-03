@@ -76,6 +76,7 @@ noinst_HEADERS =           \
         ow_none.h          \
         ow_onewirequery.h  \
         ow_opt.h           \
+        ow_owslave.h           \
         ow_parse_address.h \
         ow_parsedname.h    \
         ow_parse_sn.h      \

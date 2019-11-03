@@ -51,6 +51,7 @@ $Id$
 #include "ow_eeef.h"			// Hobby Boards UVI etc
 #include "ow_interface.h"		// interface pseudo-device
 #include "ow_lcd.h"				// LCD driver
+#include "ow_owslave.h"	        // owslave
 #include "ow_simultaneous.h"	// fake entry to address entire directory
 #include "ow_stats.h"			// statistic reporting pseudo-device
 #include "ow_settings.h"		// settings pseudo-device
